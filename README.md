@@ -1,4 +1,4 @@
-  # hana-adapter
+  # eigen-adapter
   A repository which adapts the [Eigen 3](http://eigen.tuxfamily.org/index.php?title=Main_Page) project for use in the NJOY21 build scheme.
   
   ## Git Subtree
