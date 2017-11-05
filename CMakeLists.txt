@@ -37,4 +37,4 @@ message( STATUS "-----------------------------------------------------------" )
 
 add_subdirectory( src )
 add_library( eigen-adapter INTERFACE )
-target_link_libraries( eigen-adapter PUBLIC eigen )
+target_link_libraries( eigen-adapter INTERFACE eigen )
